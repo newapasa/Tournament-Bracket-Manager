@@ -26,6 +26,7 @@
     "tailwind-merge": "^2.1.0",
     "tailwindcss-animate": "^1.0.7"
   },
+  
   "devDependencies": {
     "@types/node": "^20.10.4",
     "@types/react": "^18.2.45",
